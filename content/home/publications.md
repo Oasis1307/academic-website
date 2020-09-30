@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 0
+  count = 5
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -25,18 +25,18 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Multi-metric joint discrimination network for few-shot classification."
-    category = "few-shot learning"
+    tag = "paper"
+    category = ""
     publication_type = "conference"
     author = "Wei Wang, Zhijie Wen*, Liyan Ma, Shihui Ying"
     exclude_featured = false
   
     [content.filters]
-    tag = "Zhijie Wen, Ru Feng, Jingxin Liu, Ying Li, Shihui Ying*. GCSBA-Net: Gabor-based and cascade squeeze bi-attention network for gland segmentation. IEEE Journal of Biomedical and Health Informatics. 11, August, 2020. doi: 10.1109/JBHI.2020.3015844."
+    tag = "*"
     category = ""
     publication_type = ""
     author = ""
-    exclude_featured = True
+    exclude_featured = False
 
 [design]
   # Toggle between the various page layout types.
@@ -44,7 +44,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
