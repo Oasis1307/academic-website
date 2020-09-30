@@ -21,9 +21,9 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "基于特征表示的自适应纹理分类模型及算法研究"
+    tag = "国家自然科学基金青年项目"
   
   # [[content.filter_button]]
   #   name = "Deep Learning"

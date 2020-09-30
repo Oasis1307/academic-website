@@ -21,12 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "PRCV"
   organization_url = "https://www.coursera.org"
-  title = "Topology-preserving nonlinear shape registration on the shape manifold. Multimedia Tools and Applications."
-  url = "Wei Wang, Zhijie Wen*, Liyan Ma, Shihui Ying. "
+  title = "Multi-metric joint discrimination network for few-shot classification."
+  url = ""
   certificate_url = "https://www.coursera.org"
   date_start = "2020-10-16"
   date_end = ""
-  description = ""
+  description = "Wei Wang, Zhijie Wen*, Liyan Ma, Shihui Ying. "
 
 [[item]]
   organization = "edX"
