@@ -41,5 +41,23 @@ date_format = "Jan 2006"
   date_end = "2022-06-30"
   description = """Major for computational mathematics."""
 
+[[experience]]
+  title = "Undergraduate"
+  company = "University"
+  company_url = ""
+  location = "NanJing"
+  date_start = "2015-09-01"
+  date_end = "2019-06-30"
+  description = """Mathematics and Applied Mathematics."""
+
+[[experience]]
+  title = "Postgraduate"
+  company = "ShangHai University"
+  company_url = ""
+  location = "Shanghai"
+  date_start = "2013-09-01"
+  date_end = "2015-06-30"
+  description = """Major for computational mathematics."""
+
 
 +++
