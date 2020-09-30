@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "paper list"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -25,18 +25,12 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "paper"
+    tag = ""
     category = ""
     publication_type = "conference"
-    author = "Wei Wang, Zhijie Wen*, Liyan Ma, Shihui Ying"
+    author = "Wei Wang"
     exclude_featured = false
-  
-    [content.filters]
-    tag = "*"
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = False
+ 
 
 [design]
   # Toggle between the various page layout types.
