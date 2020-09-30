@@ -22,12 +22,12 @@ subtitle = ""
   filter_default = 0
   
   [[content.filter_button]]
-    name = "基于特征表示的自适应纹理分类模型及算法研究"
-    tag = "国家自然科学基金青年项目"
+    name = "Research on adaptive texture classification Model and algorithm based on feature representation"
+    tag = "National Natural Science Foundation of China Youth Program"
   
   [[content.filter_button]]
-    name = "基于多模态医学影像的乳腺癌智能诊断系统"
-    tag = "国家自然科学基金重点项目"
+    name = "An intelligent diagnosis system for breast cancer based on multimodal medical imaging"
+    tag = "Key projects of national Natural Science Foundation of China"
   
   [[content.filter_button]]
     name = "Other"
@@ -35,14 +35,14 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
