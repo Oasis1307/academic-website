@@ -25,13 +25,13 @@ subtitle = ""
     name = "基于特征表示的自适应纹理分类模型及算法研究"
     tag = "国家自然科学基金青年项目"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "基于多模态医学影像的乳腺癌智能诊断系统"
+    tag = "国家自然科学基金重点项目"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "Other"
+    tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
