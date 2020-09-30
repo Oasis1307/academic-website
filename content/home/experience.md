@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "GenCoin"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2011-01-01"
+  date_end = "2010-01-01"
   description = """
   Responsibilities include:
   
@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Shanghai"
   date_start = "2019-09-01"
-  date_end = "2022-06-30"
+  date_end = ""
   description = """Major for computational mathematics."""
 
 [[experience]]
@@ -49,15 +49,6 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2019-06-30"
   description = """Mathematics and Applied Mathematics."""
-
-[[experience]]
-  title = "Postgraduate"
-  company = "ShangHai University"
-  company_url = ""
-  location = "Shanghai"
-  date_start = "2013-09-01"
-  date_end = "2015-06-30"
-  description = """Major for computational mathematics."""
 
 
 +++

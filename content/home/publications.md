@@ -25,11 +25,11 @@ subtitle = "paper list"
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
+    tag = "111"
+    category = "conference"
     publication_type = "conference"
     author = "Wei Wang"
-    exclude_featured = false
+    exclude_featured = true
  
 
 [design]
@@ -38,7 +38,7 @@ subtitle = "paper list"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
