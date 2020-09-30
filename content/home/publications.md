@@ -25,12 +25,19 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Multi-metric joint discrimination network for few-shot classification."
+    category = "few-shot learning"
+    publication_type = "conference"
+    author = "Wei Wang, Zhijie Wen*, Liyan Ma, Shihui Ying"
+    exclude_featured = false
+  
+    [content.filters]
+    tag = "Zhijie Wen, Ru Feng, Jingxin Liu, Ying Li, Shihui Ying*. GCSBA-Net: Gabor-based and cascade squeeze bi-attention network for gland segmentation. IEEE Journal of Biomedical and Health Informatics. 11, August, 2020. doi: 10.1109/JBHI.2020.3015844."
     category = ""
     publication_type = ""
     author = ""
     exclude_featured = false
-  
+
 [design]
   # Toggle between the various page layout types.
   #   1 = List
