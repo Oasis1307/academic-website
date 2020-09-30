@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Shanghai"
   date_start = "2019-09-01"
-  date_end = "Now"
+  date_end = "2022-06-30"
   description = """Major for computational mathematics."""
 
 
